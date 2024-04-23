@@ -1,16 +1,13 @@
-# lead_generator
-
-A new Flutter project.
+# lead_generator Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+**This App was built in flutter framework using REST Api (Swagger api link : "https://api.nstack.in/#/Todo/TodoController_findAll")**
 
-A few resources to get you started if this is your first Flutter project:
+Th apk file as per abi is also been added in the repository, you can download and check.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The steps is also in the png format.
+
+start from here[
+https://github.com/blessingdanyWP/lead_generator/blob/main/step1.png
